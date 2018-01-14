@@ -1,2 +1,2 @@
 # SlamLearningFile
-this is a repository for store slam learning file
+this is a repository for store learning file
